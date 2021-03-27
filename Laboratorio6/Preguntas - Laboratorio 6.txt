@@ -1,0 +1,17 @@
+Laboratorio 6 - Temporizadores
+
+1. ¿Para qué sirve el PR2?
+--> Es un registro en el cual se almacena el período del Timer2. Su función es comparar el valor cargado 
+con el del Timer2 y cuando ambos valores sean iguales se ejecuta la interrupción configurada. 
+
+2. ¿Cuál es el preescaler máximo que le puedo asignar al TMR1?
+--> 1:8
+
+3. ¿Cuál es la diferencia entre el TMR1 y TMR2?
+--> El Timer1 es un contador/temporizador de 16 bits mientras que el Timer2 es únicamente de 8 bits.
+El Timer1 posee un modo de entradas y un oscilador propio de baja potencia de 32 KHz mientras que el Timer2 no.
+La interrupción en el Timer1 se ejecuta con un overflow, mientras que en el Timer2 se ejecuta con una comparación 
+de valores entre el registro PR2 y el valor del Timer2. 
+
+4. Además de temporizadores, ¿en qué otras funciones se utilizar los Timers 1 y 2?
+--> 
