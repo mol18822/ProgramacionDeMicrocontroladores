@@ -1,0 +1,20 @@
+1. ¿Cuántos módulos convertidores análogido-digital tiene el PIC16F887? ¿Cúantos canales?
+--> El PIC16F887 cuenta con únicamente 1 módulo convertidor y 14 canales.
+
+2. ¿Cuál es la diferencia entre módulo y canal?
+--> Un módulo convierte la señal proveniente de determinado canal por medio de caracteristicas
+y configuraciones específicas mientras que el canal es únicamente el medio de comunicación entre
+el mundo exterior y el pic. 
+
+3. ¿Qué es un Tad?
+--> Es el tiempo en el que la conversión de determinado bit es definido. 
+
+4. ¿Cuál es el cambio de voltaje más pequeño que el ADC del PIC16F887 puede detectar?
+--> 5mV
+
+5. ¿Cuál es la diferencia de tener el resultado de la conversión justificado a la izquierda
+o justificado a la derecha?
+--> La diferencia principal es la precisión que se desea utilizar en los voltajes. 
+Cuando se justifica a la izquierda se requiere menos exactitud y cuando se justifica a 
+la derecha se utiliza más exactitud. 
+

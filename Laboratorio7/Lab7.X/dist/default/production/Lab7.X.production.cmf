@@ -11,7 +11,7 @@
 # All addresses and the length are given in unqualified hexadecimal
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
-$C:\Users\Luispe\AppData\Local\Temp\sfr4.o
+$C:\Users\Luispe\AppData\Local\Temp\sd6o.o
 reset_vec CODE 0 0 0 3 2
 end_init CODE 0 E E 3 2
 config CONFIG 4 2007 2007 2 2
@@ -79,23 +79,23 @@ STRING 1F0-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production\Lab7.X.production.o
-11 cinit CODE >511:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-11 cinit CODE >514:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-11 cinit CODE >561:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-12 cinit CODE >562:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-13 cinit CODE >563:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-14 cinit CODE >564:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-15 cinit CODE >565:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-16 cinit CODE >566:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-17 cinit CODE >567:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-18 cinit CODE >568:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-19 cinit CODE >569:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1A cinit CODE >570:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1F cinit CODE >574:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-20 cinit CODE >575:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-21 cinit CODE >581:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-21 cinit CODE >583:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-22 cinit CODE >584:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
+11 cinit CODE >511:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+11 cinit CODE >514:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+11 cinit CODE >561:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+12 cinit CODE >562:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+13 cinit CODE >563:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+14 cinit CODE >564:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+15 cinit CODE >565:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+16 cinit CODE >566:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+17 cinit CODE >567:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+18 cinit CODE >568:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+19 cinit CODE >569:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1A cinit CODE >570:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1F cinit CODE >574:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+20 cinit CODE >575:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+21 cinit CODE >581:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+21 cinit CODE >583:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+22 cinit CODE >584:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
 4 intentry CODE >64:C:\Users\Luispe\Documents\UVG\4Cuarto_Año\VII_SEMESTRE\Programacion_Microcontroladores\ProgramacionDeMicrocontroladores\Laboratorio7\Lab7.X\main.c
 148 text5 CODE >64:C:\Users\Luispe\Documents\UVG\4Cuarto_Año\VII_SEMESTRE\Programacion_Microcontroladores\ProgramacionDeMicrocontroladores\Laboratorio7\Lab7.X\main.c
 148 text5 CODE >66:C:\Users\Luispe\Documents\UVG\4Cuarto_Año\VII_SEMESTRE\Programacion_Microcontroladores\ProgramacionDeMicrocontroladores\Laboratorio7\Lab7.X\main.c
@@ -212,23 +212,23 @@ EC text2 CODE >173:C:\Users\Luispe\Documents\UVG\4Cuarto_Año\VII_SEMESTRE\Progra
 1D8 maintext CODE >105:C:\Users\Luispe\Documents\UVG\4Cuarto_Año\VII_SEMESTRE\Programacion_Microcontroladores\ProgramacionDeMicrocontroladores\Laboratorio7\Lab7.X\main.c
 1DD maintext CODE >107:C:\Users\Luispe\Documents\UVG\4Cuarto_Año\VII_SEMESTRE\Programacion_Microcontroladores\ProgramacionDeMicrocontroladores\Laboratorio7\Lab7.X\main.c
 1DD maintext CODE >108:C:\Users\Luispe\Documents\UVG\4Cuarto_Año\VII_SEMESTRE\Programacion_Microcontroladores\ProgramacionDeMicrocontroladores\Laboratorio7\Lab7.X\main.c
-1C5 inittext CODE >535:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1C5 inittext CODE >536:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1C6 inittext CODE >537:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1C7 inittext CODE >538:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1C8 inittext CODE >539:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1C9 inittext CODE >546:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1C9 inittext CODE >547:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1CE inittext CODE >548:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1CF inittext CODE >549:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1D0 inittext CODE >550:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1D1 inittext CODE >551:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1D2 inittext CODE >552:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1D3 inittext CODE >553:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1D4 inittext CODE >554:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1D5 inittext CODE >555:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1D6 inittext CODE >556:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
-1D7 inittext CODE >557:C:\Users\Luispe\AppData\Local\Temp\sfr4.s
+1C5 inittext CODE >535:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1C5 inittext CODE >536:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1C6 inittext CODE >537:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1C7 inittext CODE >538:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1C8 inittext CODE >539:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1C9 inittext CODE >546:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1C9 inittext CODE >547:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1CE inittext CODE >548:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1CF inittext CODE >549:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1D0 inittext CODE >550:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1D1 inittext CODE >551:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1D2 inittext CODE >552:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1D3 inittext CODE >553:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1D4 inittext CODE >554:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1D5 inittext CODE >555:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1D6 inittext CODE >556:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
+1D7 inittext CODE >557:C:\Users\Luispe\AppData\Local\Temp\sd6o.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -256,11 +256,11 @@ _RBIF 58 0 ABS 0 - dist/default/production\Lab7.X.production.o
 _T0IF 5A 0 ABS 0 - dist/default/production\Lab7.X.production.o
 _TMR0 1 0 ABS 0 - dist/default/production\Lab7.X.production.o
 _WPUB 95 0 ABS 0 - dist/default/production\Lab7.X.production.o
-___sp 0 0 STACK 2 stack C:\Users\Luispe\AppData\Local\Temp\sfr4.o
+___sp 0 0 STACK 2 stack C:\Users\Luispe\AppData\Local\Temp\sd6o.o
 _main 3B0 0 CODE 0 maintext dist/default/production\Lab7.X.production.o
 btemp 7E 0 ABS 0 - dist/default/production\Lab7.X.production.o
 __size_of_nibbles_separation 0 0 ABS 0 - dist/default/production\Lab7.X.production.o
-start 1C 0 CODE 0 init C:\Users\Luispe\AppData\Local\Temp\sfr4.o
+start 1C 0 CODE 0 init C:\Users\Luispe\AppData\Local\Temp\sd6o.o
 __size_of___awdiv 0 0 ABS 0 - dist/default/production\Lab7.X.production.o
 __size_of___awmod 0 0 ABS 0 - dist/default/production\Lab7.X.production.o
 __size_of_main 0 0 ABS 0 - dist/default/production\Lab7.X.production.o
@@ -270,12 +270,12 @@ __LidataBANK0 0 0 ABS 0 idataBANK0 -
 __Hpowerup 0 0 CODE 0 powerup -
 ___awmod@sign 2C 0 BANK0 1 cstackBANK0 dist/default/production\Lab7.X.production.o
 __LnvCOMMON 0 0 ABS 0 nvCOMMON -
-intlevel0 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sfr4.o
-intlevel1 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sfr4.o
-intlevel2 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sfr4.o
-intlevel3 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sfr4.o
-intlevel4 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sfr4.o
-intlevel5 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sfr4.o
+intlevel0 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sd6o.o
+intlevel1 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sd6o.o
+intlevel2 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sd6o.o
+intlevel3 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sd6o.o
+intlevel4 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sd6o.o
+intlevel5 0 0 ENTRY 0 functab C:\Users\Luispe\AppData\Local\Temp\sd6o.o
 __LbssCOMMON 0 0 ABS 0 bssCOMMON -
 _OSCCONbits 8F 0 ABS 0 - dist/default/production\Lab7.X.production.o
 wtemp0 7E 0 ABS 0 - dist/default/production\Lab7.X.production.o
@@ -290,15 +290,15 @@ __LnvBANK0 0 0 ABS 0 nvBANK0 -
 ___awdiv@divisor 73 0 COMMON 1 cstackCOMMON dist/default/production\Lab7.X.production.o
 __end_of___awdiv 11C 0 CODE 0 text4 dist/default/production\Lab7.X.production.o
 __end_of___awmod 290 0 CODE 0 text3 dist/default/production\Lab7.X.production.o
-___stackhi 0 0 ABS 0 - C:\Users\Luispe\AppData\Local\Temp\sfr4.o
-___stacklo 0 0 ABS 0 - C:\Users\Luispe\AppData\Local\Temp\sfr4.o
+___stackhi 0 0 ABS 0 - C:\Users\Luispe\AppData\Local\Temp\sd6o.o
+___stacklo 0 0 ABS 0 - C:\Users\Luispe\AppData\Local\Temp\sd6o.o
 __size_of_setup 0 0 ABS 0 - dist/default/production\Lab7.X.production.o
 __HnvCOMMON 0 0 ABS 0 nvCOMMON -
 start_initialization 22 0 CODE 0 cinit dist/default/production\Lab7.X.production.o
 _TRISBbits 86 0 ABS 0 - dist/default/production\Lab7.X.production.o
 _Counter 77 0 COMMON 1 nvCOMMON dist/default/production\Lab7.X.production.o
 __pcstackBANK0 2A 0 BANK0 1 cstackBANK0 dist/default/production\Lab7.X.production.o
-___int_sp 0 0 STACK 2 stack C:\Users\Luispe\AppData\Local\Temp\sfr4.o
+___int_sp 0 0 STACK 2 stack C:\Users\Luispe\AppData\Local\Temp\sd6o.o
 __Hbank0 0 0 ABS 0 bank0 -
 __Hbank1 0 0 ABS 0 bank1 -
 __Hbank2 0 0 ABS 0 bank2 -
@@ -348,7 +348,7 @@ __end_of_isr 338 0 CODE 0 text5 dist/default/production\Lab7.X.production.o
 _Decenas 33 0 BANK0 1 nvBANK0 dist/default/production\Lab7.X.production.o
 __HnvBANK0 0 0 ABS 0 nvBANK0 -
 __Lintentry 8 0 CODE 0 intentry -
-reset_vec 0 0 CODE 0 reset_vec C:\Users\Luispe\AppData\Local\Temp\sfr4.o
+reset_vec 0 0 CODE 0 reset_vec C:\Users\Luispe\AppData\Local\Temp\sd6o.o
 __pdataBANK0 20 0 BANK0 1 dataBANK0 dist/default/production\Lab7.X.production.o
 ___awmod@counter 2B 0 BANK0 1 cstackBANK0 dist/default/production\Lab7.X.production.o
 ___awdiv 4A 0 CODE 0 text4 dist/default/production\Lab7.X.production.o
