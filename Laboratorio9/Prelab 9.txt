@@ -1,0 +1,13 @@
+1. ¿De qué sirven los bits CCPxCON<5:4>?
+--> Cuentan con la función de seleccionar el modo de captura, modo de comparación y 
+el modo PWM. En el caso del modo PWM son los bits menos significativos.
+
+2. ¿Qué pasa con el pin de salida cuándo el ciclo de trabajo es de 0%?
+--> No se enciende si el ciclo de trabajo es 0.
+
+3. Investigue y explique la señal que se debe mandar a un servomotor. ¿Cuál es la diferencia
+entre la señal que estamos mandando con el PIC y la señal que el sermovotor requiere?
+--> El control de un servomotor se realiza mediante una modulación de longitud de tiempo de
+pulso. En el caso del PIC, el modo PWM es una señal que puede ser utilizada para controlar 
+servomotores, sin embargo no es la que el servomotor requiere como tal, es utilizada por su 
+facilidad a la hora de aplicarse. 
