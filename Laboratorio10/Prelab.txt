@@ -1,0 +1,13 @@
+1. ¿Cuál es la diferencia entre comunicación sincrona y asíncrona?
+--> En la comunicación sincrona los datos se transfieren en forma de tramas mientras que en la
+comunicación asíncrona se transfieren byte por byte. La comunicación sincrona necesita una señal 
+de reloj entre emisor y receptor para que la información llegue mientras que la asincrona no.
+
+2. ¿Cuál es la definición de Baud Rate?
+--> Es la velocidad a la que se transmiten las unidades de información a través de una línea de 
+comunicaciones. Se expresa en baudios. 
+
+3. ¿Qué son los caracteres ASCII?
+-->  Acrónimo en inglés de American Standard Code for Information Interchange, es el código estándar 
+estadounidense para el intercambio de información. Es un código de caracteres basado en el alfabeto
+latino, en donde cada caracter cuenta con un número en binario que lo identifica. 
